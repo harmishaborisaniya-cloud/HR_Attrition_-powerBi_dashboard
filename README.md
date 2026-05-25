@@ -270,7 +270,7 @@ This dashboard helps HR teams make informed decisions, reduce attrition rates, a
 <a href="">Data_set</a>
 
 ## 📷 Dashboard Preview
-<a href="">Screenshort</a>
+<a href="https://github.com/harmishaborisaniya-cloud/HR_Attrition_-powerBi_dashboard/blob/main/HR.png">Screenshort</a>
 
 ---
 
