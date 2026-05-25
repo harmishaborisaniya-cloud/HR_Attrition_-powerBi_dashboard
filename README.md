@@ -267,7 +267,7 @@ This dashboard helps HR teams make informed decisions, reduce attrition rates, a
 
 ---
 ## HR_Attrition Dashboard Dataset (MS Excel)
-<a href="">Data_set</a>
+<a href="https://github.com/harmishaborisaniya-cloud/HR_Attrition_-powerBi_dashboard/blob/main/HR_Dashbord_data.xlsx">Data_set</a>
 
 ## 📷 Dashboard Preview
 <a href="https://github.com/harmishaborisaniya-cloud/HR_Attrition_-powerBi_dashboard/blob/main/HR.png">Screenshort</a>
